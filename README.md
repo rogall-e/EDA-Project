@@ -1,6 +1,5 @@
 # EDA-Project-NeueFische
 
-This project is still **in progress**
 
 ![alt text](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/60/b5.jpg)
 
