@@ -2,7 +2,7 @@
 
 This project is still **in progress**
 
-![alt text](https://cdn.pixabay.com/photo/2015/03/26/22/09/city-skyline-693502_1280.jpg)
+![alt text](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/60/b5.jpg)
 
 ## Overview
 
